@@ -7,7 +7,6 @@ pista. Incluye busqueda, listas de reproduccion, dos modos de visualizacion,
 temas de color y soporte para cuatro idiomas.
 
 - Autor: surreal snake
-- Version: 1.0
 - Plataforma: Nintendo Wii (Homebrew Channel)
 - Codigo cerrado. Solo se distribuyen binarios.
 
